@@ -1,20 +1,33 @@
-### Hi, I'm Roberval Filho, welcome to my GitHub
+## Bem-vindo ao meu GitHub
+
+Sou Roberval, piauiense de Teresina, com 32 anos.
+
+Formado em direito e com experiência no terceiro setor trabalhando voluntariamente com educação empreendedora, fundei, construi e desenvolvi junto com amigos uma produtora de eventos e agência de experiências onde trabalhei por mais de 06 anos.
+
+Em 2020 deixei esse sonho pra trás para buscar novos desafios e, por motivos maiores que todos nós, acabou se tornando um momento de descanso, descobertas e procura por conhecimentos que estavam bem fora da minha caixa.
+
+Já em 2021 decidi fazer a transiçãode carreira para a área tecnologia, área que sempre tive bastante interesse. Entrei no curso da Trybe e estou estudando Desenvolvimento Web FullStack. Aprendi e continuo aprendendo bastante, desde HTML e CSS, JavaScript, React, MySQL, MongoDB, Express, Sequelize, Sockets, Ciências da Computação, Python, Algoritmos entre outras coisas.
 
 --
+### Estatísticas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rslfilho&show_icons=true&theme=dark)
 
-<!--
-**rslfilho/rslfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--
+### Liguagens e Ferramentas
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="git" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="git" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="git" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="git" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="git" width="40" height="40"/> 
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rslfilho" alt="Visitas de perfil Roberval Filho" /> </p>
