@@ -6,7 +6,7 @@ Formado em direito e com experiência no terceiro setor trabalhando voluntariame
 
 Em 2020 deixei esse sonho pra trás para buscar novos desafios e, por motivos maiores que todos nós, acabou se tornando um momento de descanso, descobertas e procura por conhecimentos que estavam bem fora da minha caixa.
 
-Já em 2021 decidi fazer a transiçãode carreira para a área tecnologia, área que sempre tive bastante interesse. Entrei no curso da Trybe e estou estudando Desenvolvimento Web FullStack. Aprendi e continuo aprendendo bastante, desde HTML e CSS, JavaScript, React, MySQL, MongoDB, Express, Sequelize, Sockets, Ciências da Computação, Python, Algoritmos entre outras coisas.
+Já em 2021 decidi fazer a transição de carreira para a área tecnologia, área que sempre tive bastante interesse. Entrei no curso da Trybe e estou estudando Desenvolvimento Web FullStack. Aprendi e continuo aprendendo bastante, desde HTML e CSS, JavaScript, React, MySQL, MongoDB, Express, Sequelize, Sockets, Ciências da Computação, Python, Algoritmos entre outras coisas.
 
 --
 ### Estatísticas
