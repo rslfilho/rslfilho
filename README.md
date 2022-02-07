@@ -13,7 +13,11 @@ Neste momento de final de curso continuo todos os dias adquirindo conhecimento e
 --
 ### Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rslfilho&show_icons=true&theme=dark)
+![Rslfilho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rslfilho&show_icons=true&theme=dark)
+
+--
+![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![image]({BadgeURLHere})
 
 --
 ### Liguagens e Ferramentas
