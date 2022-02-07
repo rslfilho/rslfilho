@@ -32,4 +32,3 @@ Neste momento de final de curso continuo todos os dias adquirindo conhecimento e
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="git" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="git" width="40" height="40"/> 
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rslfilho" alt="Visitas de perfil Roberval Filho" /> </p>
