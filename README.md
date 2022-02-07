@@ -8,7 +8,7 @@ Em 2020 deixei esse sonho pra trás para buscar novos desafios e, por motivos ma
 
 Já em 2021 decidi fazer a transição de carreira para a área tecnologia, área que sempre tive bastante interesse. Entrei no curso da Trybe e estou estudando Desenvolvimento Web FullStack. Aprendi e continuo aprendendo bastante, desde HTML e CSS, JavaScript, React, MySQL, MongoDB, Express, Sequelize, Sockets, Ciências da Computação, Python, Algoritmos entre outras coisas.
 
-Neste momento de final de curso continuo todos os dias adquirindo conhecimento e fico mais e mais apaixonado pelo que estou fazendo. Meu objetivo é sempre estar aprendendo coisas novas, trabalhando em projetos interessantes e marcantes para seus usuários junto com um time incrível. 
+Neste momento de final de curso continuo todos os dias adquirindo conhecimento e fico mais e mais apaixonado pelo que estou fazendo. Meu objetivo é sempre estar aprendendo coisas novas, trabalhando em projetos interessantes e marcantes para seus usuários, junto com um time incrível. 
 
 --
 ### Estatísticas
