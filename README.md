@@ -15,7 +15,7 @@ Neste momento de final de curso continuo todos os dias adquirindo conhecimento e
 
 ![Rslfilho's GitHub stats](https://github-readme-stats.vercel.app/api?username=rslfilho&show_icons=true&theme=dark&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rslfilho&layout=compact&count_private=tru&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rslfilho&layout=compact&count_private=true&theme=dark)
 
 --
 ### Liguagens e Ferramentas
