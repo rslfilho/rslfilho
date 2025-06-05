@@ -1,14 +1,10 @@
 ## Bem-vindo ao meu GitHub
 
-Sou Roberval, piauiense de Teresina, com 32 anos.
-
 Formado em direito e com experiência no terceiro setor trabalhando voluntariamente com educação empreendedora, fundei, construi e desenvolvi junto com amigos uma produtora de eventos e agência de experiências onde trabalhei por mais de 06 anos.
 
-Em 2020 deixei esse sonho pra trás para buscar novos desafios e, por motivos maiores que todos nós, acabou se tornando um momento de descanso, descobertas e procura por conhecimentos que estavam bem fora da minha caixa.
+Já em 2021 decidi fazer a transição de carreira para a área tecnologia, área que sempre tive bastante interesse. Estudei Desenvolvimento Web FullStack. Aprendi desde HTML e CSS, JavaScript, React, MySQL, MongoDB, Express, Sequelize, Sockets, Docker, Ciências da Computação, Python, Algoritmos entre outras coisas.
 
-Já em 2021 decidi fazer a transição de carreira para a área tecnologia, área que sempre tive bastante interesse. Entrei no curso da Trybe e estou estudando Desenvolvimento Web FullStack. Aprendi e continuo aprendendo bastante, desde HTML e CSS, JavaScript, React, MySQL, MongoDB, Express, Sequelize, Sockets, Ciências da Computação, Python, Algoritmos entre outras coisas.
-
-Neste momento de final de curso continuo todos os dias adquirindo conhecimento e fico mais e mais apaixonado pelo que estou fazendo. Meu objetivo é sempre estar aprendendo coisas novas, trabalhando em projetos interessantes e marcantes para seus usuários, junto com um time incrível. 
+Desde 2022 estou na Lemon Energia trabalhando como Desenvolvedor backend, tendo tido 03 promoções nesse período. Atuei diretamente na manutenção e construção de aplicações e Node.js, com javascript e typescript, usando infra da AWS Cloud.
 
 --
 ### Estatísticas
